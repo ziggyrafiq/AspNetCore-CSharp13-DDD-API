@@ -1,17 +1,18 @@
-# Building a Clean ASP.NET Core API with C# 13, EF Core, and DDD (AspNetCore-CSharp13-DDD-API)
-The guide is written by Ziggy Rafiq and follows real-world architecture and testing best practices to provide a clean, scalable REST API using ASP.NET Core, C# 13, EF Core, and MS SQL.
+# AISmartCodeWithCSharp14
+ With Artificial Intelligence in C# 14, developers can generate, refactor, and debug code more efficiently. Ziggy Rafiq examines how these tools can improve code quality and maintainability.
+
 This repository contains the source code for the article:  
-**[Code for Building a Clean ASP.NET Core API with C# 13, EF Core, and DDD](https://www.c-sharpcorner.com/article/building-a-clean-asp-net-core-api-with-c-sharp-13-ef-core-and-ddd)**  
+**[Code for Smarter Code with Built-in AI Support in C# 14](https://www.csharp.com/article/smarter-code-with-built-in-ai-support-in-c-sharp-14/ )**  
 
 ## About  
 
-In Ziggy Rafiq's latest guide, ASP.NET Core 8 and C# 13 are used to create an enterprise-grade Web API. Implement EF Core, DDD, and layered architecture for easy maintenance and clean code practices. There are detailed examples, testing patterns, and deployment-ready structures included.
+By leveraging Artificial Intelligence in C# 14, developers can generate, refactor, and debug code more efficiently. By leveraging AI-driven tools, developers can focus more on creative problem-solving and less on repetitive tasks, resulting in faster development cycles and more robust software, according to Ziggy Rafiq. The integration of AI in C# 14 can ultimately improve the overall efficiency and quality of coding.
 
 ### Article Details  
 
-- **Title:** Building a Clean ASP.NET Core API with C# 13, EF Core, and DDD
+- **Title:** Smarter Code with Built-in AI Support in C# 14
 - **Author:** Ziggy Rafiq  
-- **Link:** [Read the full article](https://www.c-sharpcorner.com/article/building-a-clean-asp-net-core-api-with-c-sharp-13-ef-core-and-ddd/)  
+- **Link:** [Read the full article](https://www.csharp.com/article/smarter-code-with-built-in-ai-support-in-c-sharp-14/)  
 
 ## How to Use  
 
@@ -19,12 +20,12 @@ Follow these steps to run the code locally:
 
 1. **Clone the repository:**  
    ```bash  
-   git clone  https://github.com/ziggyrafiq/AspNetCore-CSharp13-DDD-API.git 
+   git clone  https://github.com/ziggyrafiq/AISmartCodeWithCSharp14.git 
    ```
 
 2. **Navigate to the project directory:**  
    ```bash  
-   cd AspNetCore-CSharp13-DDD-API
+   cd AISmartCodeWithCSharp14
    ```
 3. **Install dependencies (if applicable):** 
    ```bash  
